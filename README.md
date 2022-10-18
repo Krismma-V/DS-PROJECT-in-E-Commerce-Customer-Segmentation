@@ -6,6 +6,7 @@ Data
 The data is available here--->https://drive.google.com/file/d/1jLeQLgChgCaHAz0yFXKjztudp1pfwJf8/view?usp=sharing
 
 Minimum Requirements
+
 The end objective of the participant is to come up with customer segmentations that take into account all the information that is presented in the dataset. The participant is expected to use NLP techniques to find similarity between the products. 
 
 
